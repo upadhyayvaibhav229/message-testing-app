@@ -38,7 +38,6 @@ slack-messaging-api/
 
 * ✅ Send a message to a Slack channel
 * ✅ Schedule a message to be sent in the future
-* ✅ Retrieve a specific message using `timestamp (ts)`
 * ✅ Fetch all messages from a channel
 * ✅ Edit a message using its `ts`
 * ✅ Delete a message using its `ts`
