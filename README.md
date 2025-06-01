@@ -87,7 +87,6 @@ npm run dev
 | POST   | `/api/message/send`     | Send a new message             |
 | POST   | `/api/message/schedule` | Schedule a message             |
 | GET    | `/api/message/all`      | Fetch all messages             |
-| GET    | `/api/message/:ts`      | Fetch a single message by `ts` |
 | PUT    | `/api/message/edit`     | Edit a message                 |
 | DELETE | `/api/message/:ts`      | Delete a message by `ts`       |
 
