@@ -64,9 +64,10 @@ npm install
 Create a `.env` file in the root directory:
 
 ```env
-SLACK_BOT_TOKEN=your-bot-token-here
-SLACK_CHANNEL_ID=your-channel-id-here
+SLACK_BOT_TOKEN=xoxb-8993811002129-8974945104067-XKzm3pRfR6m44dTw2bQbapUE
+SLACK_CHANNEL_ID=C08V7PV6A6M
 PORT=3000
+i am not deleting the .env file for check purpose
 ```
 
 Get your token and channel ID from the Slack Developer Portal after setting up your app.
