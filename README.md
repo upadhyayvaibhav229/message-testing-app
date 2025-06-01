@@ -107,13 +107,7 @@ You can use Postman to test all endpoints. Make sure your bot is **added to the 
 
 ---
 
-## 🧠 Important Notes
 
-* You must create a Slack App on [https://api.slack.com/apps](https://api.slack.com/apps)
-* Use **Slack Developer Sandbox** for safe testing.
-* Reinstall your app to the workspace if permission changes are made.
-
----
 
 ## 📮 Contact
 
